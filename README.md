@@ -14,15 +14,6 @@ Using ML we can automate the entire process. By finding similar products from co
 3. Provide insight back to the user on price changes and positioning over time and the direct competitiveness of the products to your own, in order to inform pricing strategies
 4. Given a product, the project aims to find similar products from competitors, categorise them and understand competitor’s pricing strategies in order to have a greater competitive advantage.
 
-### UPDATES:
-
-**31/10/2022:** Project Overview
-**1/11/2022:** Read Research Papers
-**2/11/2022:** Read Research Papers
-**3/11/2022:** Explored Serpapi
-**4/11/2022:** Web Scraped Nike Shoes data using Beautiful Soup
-**5/11/2022:** Built a web application to access nike shoes data.
-
 
 ### Progress:
 
