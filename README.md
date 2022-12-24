@@ -4,6 +4,10 @@ In e-commerce understanding your competition is key to sales performance, yet ca
 
 Using ML we can automate the entire process. By finding similar products from competitors we can aim to categorize them and understand competitor’s pricing strategies in order to better position ourselves in the market.
 
+# Demo
+
+https://user-images.githubusercontent.com/63944541/209448463-11b88b4b-4da0-43da-bd12-bd70c97cbc9e.mov
+
 ##### The methods for achieving this would be the following:
 1. Scrape similar products (e.g. by brand, category, size, color etc.)
 2. Assess/score the similarity of the products in terms of e.g.
